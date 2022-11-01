@@ -13,7 +13,7 @@ DATA STRUCTURES USED:
 	QUEUE AND LINKED LIST
 
 PURPOSE:
-	Queue       – (Priority queue) To allow the people who comes first accordingly 
+	Queue       – (Priority queue) To allow the people who comes first accordingly. 
 	Linked list – To link the seats in the theatre
  
 
