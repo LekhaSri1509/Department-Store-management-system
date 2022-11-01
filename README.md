@@ -1,5 +1,19 @@
 # Movie-ticket-booking-system-PYTHON-
-The main objective of the online movie ticket booking system is to manage the booking and cancelling tickets, 
-displaying a particular ticket detail, exchanging seats in theatre, add a movie and displaying all movies. 
-The purpose of the project is to build an application program to reduce the manual work.
-This application will be developed in Java using OOPS and inheritance concepts.
+FUNCTIONALITIES:
+1)	Book a ticket
+2)	Cancel a ticket 
+3)	Display particular ticket details
+4)	Entering into the movie
+5)	Exchange seats
+6)	Add a movie
+7)	Displaying all movies
+8)	Exit
+
+DATA STRUCTURES USED:
+	QUEUE AND LINKED LIST
+
+PURPOSE:
+	Queue       – (Priority queue) To allow the people who comes first accordingly 
+	Linked list – To link the seats in the theatre
+ 
+
